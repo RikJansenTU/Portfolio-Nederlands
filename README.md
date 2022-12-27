@@ -12,8 +12,8 @@ Een project met als doel het gebruiken van door AI gegenereerde kunst en muziek 
 Een applicatie die je een oneindige serie aanraders voor films geeft, gebaseerd op je kijkgedrag. Je kan er ook een kijklijst mee bijhouden.
 Dit (solo)project was meer gefocust op de technische uitdagingen dan de design kant; het is een full-stack applicatie met een frontend in React, een backend in C#, en een SQL database met Entity Framework Core, en maakt gebruik van verschillende interne en externe APIs. 
 
-![Recommendation Screen](https://user-images.githubusercontent.com/9715331/208179273-dacdc89a-5de0-47c6-820c-0689f4891b52.png)
-![Watchlist Functionality](https://user-images.githubusercontent.com/9715331/208179304-a00ec264-23ef-402a-ba92-9ae9110b4738.png)
+![Recommendation Screen](https://raw.githubusercontent.com/FilmerApp/.github/main/images/Recommendations%20Gif.gif)
+![Watchlist Functionality](https://raw.githubusercontent.com/FilmerApp/.github/main/images/Watchlist%20Gif.gif)
 
 [Repository voor de frontend](https://github.com/FilmerApp/Frontend)
 
